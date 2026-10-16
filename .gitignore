@@ -1,0 +1,17 @@
+node_modules/
+venv/
+profile/
+data/
+third_party/bettergi/
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+memory/failures.jsonl
+*.log
+qrcode*.jpg
+qrcode*.png
+.DS_Store
+.!*

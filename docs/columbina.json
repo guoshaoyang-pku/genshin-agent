@@ -1,0 +1,1048 @@
+{
+  "schemaVersion": 1,
+  "character": {
+    "id": 10000125,
+    "name": "哥伦比娅",
+    "englishName": "Columbina",
+    "element": "水",
+    "weapon": "法器"
+  },
+  "verifiedAt": "2026-10-16T23:00:35.145555+00:00",
+  "dataSource": {
+    "name": "genshin-db community game-data extraction",
+    "repository": "https://github.com/theBowja/genshin-db",
+    "revision": "49a6544a6c6ae36089cb42fa591fc46f01de8bcf",
+    "revisionDate": "2026-09-21T20:39:46Z",
+    "files": [
+      {
+        "path": "characters/columbina.json",
+        "url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/ChineseSimplified/characters/columbina.json",
+        "sha256": "c81d35dcb01d7f01ad5d100965abf01b0865633cba7abd908a93fd49869c3a3c"
+      },
+      {
+        "path": "talents/columbina.json",
+        "url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/ChineseSimplified/talents/columbina.json",
+        "sha256": "e663dadbbf3ad3e2d50442ed07ffa24fdb0a1e4c23efe1ae3bd99f1ff64caf4f"
+      },
+      {
+        "path": "materials/wintericelea.json",
+        "url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/ChineseSimplified/materials/wintericelea.json",
+        "sha256": "954868baa3fcdcd6ad50622bc364628575212770c803952333fa00c11ee35fc5"
+      },
+      {
+        "path": "materials/radiantantler.json",
+        "url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/ChineseSimplified/materials/radiantantler.json",
+        "sha256": "686c0c3541a16503b9bb49c4787b6b60d58ee0d93d249293def96d9274a07016"
+      },
+      {
+        "path": "materials/teachingsofmoonlight.json",
+        "url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/ChineseSimplified/materials/teachingsofmoonlight.json",
+        "sha256": "d8cf75276610617beb6b5b3ed2e1f2f0be4d4f45b0fdd4fe966a90527a10b7ec"
+      },
+      {
+        "path": "materials/guidetomoonlight.json",
+        "url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/ChineseSimplified/materials/guidetomoonlight.json",
+        "sha256": "74ae63c8b3a919975db814032570fdd5887d4f98902e0e01f289686bc646e147"
+      },
+      {
+        "path": "materials/philosophiesofmoonlight.json",
+        "url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/ChineseSimplified/materials/philosophiesofmoonlight.json",
+        "sha256": "c91088247904b7881909d0305a8043bd10cf0e6a00c4f89ee790feb386b0f4de"
+      },
+      {
+        "path": "materials/maskofthevirtuousdoctor.json",
+        "url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/ChineseSimplified/materials/maskofthevirtuousdoctor.json",
+        "sha256": "919e74a4ef390b4aca80f3a5628d2061be30bc5d5fc519982913217f53970b97"
+      },
+      {
+        "path": "materials/slimecondensate.json",
+        "url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/ChineseSimplified/materials/slimecondensate.json",
+        "sha256": "a3c7d879c98e588d8c08bb6f60ffa03a1634a0cabf8c1ff76fb507b27fa1a845"
+      },
+      {
+        "path": "materials/slimesecretions.json",
+        "url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/ChineseSimplified/materials/slimesecretions.json",
+        "sha256": "b3ca92f1a195d748aee58f3313a943ff8d1ae9934905c30daebb212139f68e45"
+      },
+      {
+        "path": "materials/slimeconcentrate.json",
+        "url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/ChineseSimplified/materials/slimeconcentrate.json",
+        "sha256": "efa9e885b9735407a4ef05e92b30a3f8d1073bcdf440583c950a1e6b48144ed8"
+      },
+      {
+        "path": "domains/domainofmasteryfallencityiv.json",
+        "url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/src/data/ChineseSimplified/domains/domainofmasteryfallencityiv.json",
+        "sha256": "f59678d8ae0fbbd50d95158127684a10ce2ab8bd5833a220fae71ad57d329a8f"
+      }
+    ],
+    "license": {
+      "name": "MIT",
+      "copyright": "Copyright (c) 2020 theBowja",
+      "url": "https://raw.githubusercontent.com/theBowja/genshin-db/49a6544a6c6ae36089cb42fa591fc46f01de8bcf/LICENSE"
+    }
+  },
+  "scopeNotes": [
+    "突破材料对应从未突破到完成第六次突破；未计入角色经验与角色升级摩拉。",
+    "天赋费用为单个天赋1→10；三项全满乘3。不推断用户当前等级、库存或应优先升级哪一项。",
+    "素材可合成的低阶与高阶暂分开计数；未把高阶自动折算成低阶。",
+    "原路线已存在不代表采集流程已在当前账号实测；网页仅规划任务。"
+  ],
+  "ascensionStages": {
+    "ascend1": [
+      {
+        "id": 202,
+        "name": "摩拉",
+        "count": 20000
+      },
+      {
+        "id": 104121,
+        "name": "涤净青金碎屑",
+        "count": 1
+      },
+      {
+        "id": 101268,
+        "name": "冬凌草",
+        "count": 3
+      },
+      {
+        "id": 112002,
+        "name": "史莱姆凝液",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "id": 202,
+        "name": "摩拉",
+        "count": 40000
+      },
+      {
+        "id": 104122,
+        "name": "涤净青金断片",
+        "count": 3
+      },
+      {
+        "id": 113079,
+        "name": "漫光的辉角",
+        "count": 2
+      },
+      {
+        "id": 101268,
+        "name": "冬凌草",
+        "count": 10
+      },
+      {
+        "id": 112002,
+        "name": "史莱姆凝液",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "id": 202,
+        "name": "摩拉",
+        "count": 60000
+      },
+      {
+        "id": 104122,
+        "name": "涤净青金断片",
+        "count": 6
+      },
+      {
+        "id": 113079,
+        "name": "漫光的辉角",
+        "count": 4
+      },
+      {
+        "id": 101268,
+        "name": "冬凌草",
+        "count": 20
+      },
+      {
+        "id": 112003,
+        "name": "史莱姆清",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "id": 202,
+        "name": "摩拉",
+        "count": 80000
+      },
+      {
+        "id": 104123,
+        "name": "涤净青金块",
+        "count": 3
+      },
+      {
+        "id": 113079,
+        "name": "漫光的辉角",
+        "count": 8
+      },
+      {
+        "id": 101268,
+        "name": "冬凌草",
+        "count": 30
+      },
+      {
+        "id": 112003,
+        "name": "史莱姆清",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "id": 202,
+        "name": "摩拉",
+        "count": 100000
+      },
+      {
+        "id": 104123,
+        "name": "涤净青金块",
+        "count": 6
+      },
+      {
+        "id": 113079,
+        "name": "漫光的辉角",
+        "count": 12
+      },
+      {
+        "id": 101268,
+        "name": "冬凌草",
+        "count": 45
+      },
+      {
+        "id": 112004,
+        "name": "史莱姆原浆",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "id": 202,
+        "name": "摩拉",
+        "count": 120000
+      },
+      {
+        "id": 104124,
+        "name": "涤净青金",
+        "count": 6
+      },
+      {
+        "id": 113079,
+        "name": "漫光的辉角",
+        "count": 20
+      },
+      {
+        "id": 101268,
+        "name": "冬凌草",
+        "count": 60
+      },
+      {
+        "id": 112004,
+        "name": "史莱姆原浆",
+        "count": 24
+      }
+    ]
+  },
+  "talentLevels": {
+    "lvl2": [
+      {
+        "id": 202,
+        "name": "摩拉",
+        "count": 12500
+      },
+      {
+        "id": 104356,
+        "name": "「月光」的教导",
+        "count": 3
+      },
+      {
+        "id": 112002,
+        "name": "史莱姆凝液",
+        "count": 6
+      }
+    ],
+    "lvl3": [
+      {
+        "id": 202,
+        "name": "摩拉",
+        "count": 17500
+      },
+      {
+        "id": 104357,
+        "name": "「月光」的指引",
+        "count": 2
+      },
+      {
+        "id": 112003,
+        "name": "史莱姆清",
+        "count": 3
+      }
+    ],
+    "lvl4": [
+      {
+        "id": 202,
+        "name": "摩拉",
+        "count": 25000
+      },
+      {
+        "id": 104357,
+        "name": "「月光」的指引",
+        "count": 4
+      },
+      {
+        "id": 112003,
+        "name": "史莱姆清",
+        "count": 4
+      }
+    ],
+    "lvl5": [
+      {
+        "id": 202,
+        "name": "摩拉",
+        "count": 30000
+      },
+      {
+        "id": 104357,
+        "name": "「月光」的指引",
+        "count": 6
+      },
+      {
+        "id": 112003,
+        "name": "史莱姆清",
+        "count": 6
+      }
+    ],
+    "lvl6": [
+      {
+        "id": 202,
+        "name": "摩拉",
+        "count": 37500
+      },
+      {
+        "id": 104357,
+        "name": "「月光」的指引",
+        "count": 9
+      },
+      {
+        "id": 112003,
+        "name": "史莱姆清",
+        "count": 9
+      }
+    ],
+    "lvl7": [
+      {
+        "id": 202,
+        "name": "摩拉",
+        "count": 120000
+      },
+      {
+        "id": 104358,
+        "name": "「月光」的哲学",
+        "count": 4
+      },
+      {
+        "id": 112004,
+        "name": "史莱姆原浆",
+        "count": 4
+      },
+      {
+        "id": 113081,
+        "name": "贤医的假面",
+        "count": 1
+      }
+    ],
+    "lvl8": [
+      {
+        "id": 202,
+        "name": "摩拉",
+        "count": 260000
+      },
+      {
+        "id": 104358,
+        "name": "「月光」的哲学",
+        "count": 6
+      },
+      {
+        "id": 112004,
+        "name": "史莱姆原浆",
+        "count": 6
+      },
+      {
+        "id": 113081,
+        "name": "贤医的假面",
+        "count": 1
+      }
+    ],
+    "lvl9": [
+      {
+        "id": 202,
+        "name": "摩拉",
+        "count": 450000
+      },
+      {
+        "id": 104358,
+        "name": "「月光」的哲学",
+        "count": 12
+      },
+      {
+        "id": 112004,
+        "name": "史莱姆原浆",
+        "count": 9
+      },
+      {
+        "id": 113081,
+        "name": "贤医的假面",
+        "count": 2
+      }
+    ],
+    "lvl10": [
+      {
+        "id": 202,
+        "name": "摩拉",
+        "count": 700000
+      },
+      {
+        "id": 104358,
+        "name": "「月光」的哲学",
+        "count": 16
+      },
+      {
+        "id": 112004,
+        "name": "史莱姆原浆",
+        "count": 12
+      },
+      {
+        "id": 113081,
+        "name": "贤医的假面",
+        "count": 2
+      },
+      {
+        "id": 104319,
+        "name": "智识之冕",
+        "count": 1
+      }
+    ]
+  },
+  "ascensionTotals": [
+    {
+      "id": 202,
+      "name": "摩拉",
+      "count": 420000
+    },
+    {
+      "id": 104121,
+      "name": "涤净青金碎屑",
+      "count": 1
+    },
+    {
+      "id": 101268,
+      "name": "冬凌草",
+      "count": 168
+    },
+    {
+      "id": 112002,
+      "name": "史莱姆凝液",
+      "count": 18
+    },
+    {
+      "id": 104122,
+      "name": "涤净青金断片",
+      "count": 9
+    },
+    {
+      "id": 113079,
+      "name": "漫光的辉角",
+      "count": 46
+    },
+    {
+      "id": 112003,
+      "name": "史莱姆清",
+      "count": 30
+    },
+    {
+      "id": 104123,
+      "name": "涤净青金块",
+      "count": 9
+    },
+    {
+      "id": 112004,
+      "name": "史莱姆原浆",
+      "count": 36
+    },
+    {
+      "id": 104124,
+      "name": "涤净青金",
+      "count": 6
+    }
+  ],
+  "talentOneMaxTotals": [
+    {
+      "id": 202,
+      "name": "摩拉",
+      "count": 1652500
+    },
+    {
+      "id": 104356,
+      "name": "「月光」的教导",
+      "count": 3
+    },
+    {
+      "id": 112002,
+      "name": "史莱姆凝液",
+      "count": 6
+    },
+    {
+      "id": 104357,
+      "name": "「月光」的指引",
+      "count": 21
+    },
+    {
+      "id": 112003,
+      "name": "史莱姆清",
+      "count": 22
+    },
+    {
+      "id": 104358,
+      "name": "「月光」的哲学",
+      "count": 38
+    },
+    {
+      "id": 112004,
+      "name": "史莱姆原浆",
+      "count": 31
+    },
+    {
+      "id": 113081,
+      "name": "贤医的假面",
+      "count": 6
+    },
+    {
+      "id": 104319,
+      "name": "智识之冕",
+      "count": 1
+    }
+  ],
+  "talentThreeMaxTotals": [
+    {
+      "id": 202,
+      "name": "摩拉",
+      "count": 4957500
+    },
+    {
+      "id": 104356,
+      "name": "「月光」的教导",
+      "count": 9
+    },
+    {
+      "id": 112002,
+      "name": "史莱姆凝液",
+      "count": 18
+    },
+    {
+      "id": 104357,
+      "name": "「月光」的指引",
+      "count": 63
+    },
+    {
+      "id": 112003,
+      "name": "史莱姆清",
+      "count": 66
+    },
+    {
+      "id": 104358,
+      "name": "「月光」的哲学",
+      "count": 114
+    },
+    {
+      "id": 112004,
+      "name": "史莱姆原浆",
+      "count": 93
+    },
+    {
+      "id": 113081,
+      "name": "贤医的假面",
+      "count": 18
+    },
+    {
+      "id": 104319,
+      "name": "智识之冕",
+      "count": 3
+    }
+  ],
+  "combinedMaxTotals": [
+    {
+      "id": 202,
+      "name": "摩拉",
+      "count": 5377500
+    },
+    {
+      "id": 104121,
+      "name": "涤净青金碎屑",
+      "count": 1
+    },
+    {
+      "id": 101268,
+      "name": "冬凌草",
+      "count": 168
+    },
+    {
+      "id": 112002,
+      "name": "史莱姆凝液",
+      "count": 36
+    },
+    {
+      "id": 104122,
+      "name": "涤净青金断片",
+      "count": 9
+    },
+    {
+      "id": 113079,
+      "name": "漫光的辉角",
+      "count": 46
+    },
+    {
+      "id": 112003,
+      "name": "史莱姆清",
+      "count": 96
+    },
+    {
+      "id": 104123,
+      "name": "涤净青金块",
+      "count": 9
+    },
+    {
+      "id": 112004,
+      "name": "史莱姆原浆",
+      "count": 129
+    },
+    {
+      "id": 104124,
+      "name": "涤净青金",
+      "count": 6
+    },
+    {
+      "id": 104356,
+      "name": "「月光」的教导",
+      "count": 9
+    },
+    {
+      "id": 104357,
+      "name": "「月光」的指引",
+      "count": 63
+    },
+    {
+      "id": 104358,
+      "name": "「月光」的哲学",
+      "count": 114
+    },
+    {
+      "id": 113081,
+      "name": "贤医的假面",
+      "count": 18
+    },
+    {
+      "id": 104319,
+      "name": "智识之冕",
+      "count": 3
+    }
+  ],
+  "materials": [
+    {
+      "id": 202,
+      "name": "摩拉",
+      "inventoryClass": "material:202",
+      "catalogPresent": true,
+      "catalogPage": ""
+    },
+    {
+      "id": 101268,
+      "name": "冬凌草",
+      "inventoryClass": "material:101268",
+      "catalogPresent": true,
+      "catalogPage": "材料"
+    },
+    {
+      "id": 104121,
+      "name": "涤净青金碎屑",
+      "inventoryClass": "material:104121",
+      "catalogPresent": true,
+      "catalogPage": "养成道具"
+    },
+    {
+      "id": 104122,
+      "name": "涤净青金断片",
+      "inventoryClass": "material:104122",
+      "catalogPresent": true,
+      "catalogPage": "养成道具"
+    },
+    {
+      "id": 104123,
+      "name": "涤净青金块",
+      "inventoryClass": "material:104123",
+      "catalogPresent": true,
+      "catalogPage": "养成道具"
+    },
+    {
+      "id": 104124,
+      "name": "涤净青金",
+      "inventoryClass": "material:104124",
+      "catalogPresent": true,
+      "catalogPage": "养成道具"
+    },
+    {
+      "id": 104319,
+      "name": "智识之冕",
+      "inventoryClass": "material:104319",
+      "catalogPresent": true,
+      "catalogPage": "养成道具"
+    },
+    {
+      "id": 104356,
+      "name": "「月光」的教导",
+      "inventoryClass": "material:104356",
+      "catalogPresent": true,
+      "catalogPage": "养成道具"
+    },
+    {
+      "id": 104357,
+      "name": "「月光」的指引",
+      "inventoryClass": "material:104357",
+      "catalogPresent": true,
+      "catalogPage": "养成道具"
+    },
+    {
+      "id": 104358,
+      "name": "「月光」的哲学",
+      "inventoryClass": "material:104358",
+      "catalogPresent": true,
+      "catalogPage": "养成道具"
+    },
+    {
+      "id": 112002,
+      "name": "史莱姆凝液",
+      "inventoryClass": "material:112002",
+      "catalogPresent": true,
+      "catalogPage": "养成道具"
+    },
+    {
+      "id": 112003,
+      "name": "史莱姆清",
+      "inventoryClass": "material:112003",
+      "catalogPresent": true,
+      "catalogPage": "养成道具"
+    },
+    {
+      "id": 112004,
+      "name": "史莱姆原浆",
+      "inventoryClass": "material:112004",
+      "catalogPresent": true,
+      "catalogPage": "养成道具"
+    },
+    {
+      "id": 113079,
+      "name": "漫光的辉角",
+      "inventoryClass": "material:113079",
+      "catalogPresent": true,
+      "catalogPage": "养成道具"
+    },
+    {
+      "id": 113081,
+      "name": "贤医的假面",
+      "inventoryClass": "material:113081",
+      "catalogPresent": true,
+      "catalogPage": "养成道具"
+    }
+  ],
+  "acquisition": {
+    "winterIcelea": {
+      "ids": [
+        101268
+      ],
+      "text": "挪德卡莱特产：厄布拉神柱、安瓦蒂尼尔湖等；原资源有两组作者路线，不能把两组的点位简单相加。",
+      "sourceFiles": [
+        "materials/wintericelea.json"
+      ],
+      "routeGroup": "地方特产/挪德卡莱/冬凌草"
+    },
+    "slime": {
+      "ids": [
+        112002,
+        112003,
+        112004
+      ],
+      "text": "史莱姆掉落，原资源有史莱姆速刷路线；高阶可合成。",
+      "sourceFiles": [
+        "materials/slimecondensate.json",
+        "materials/slimesecretions.json",
+        "materials/slimeconcentrate.json"
+      ],
+      "routeGroup": "敌人与魔物/史莱姆"
+    },
+    "boss": {
+      "ids": [
+        113079
+      ],
+      "text": "30级以上霜夜巡天灵主掉落；原资源有首领前往路线和自动首领流程，当前未实测完整击败领奖。",
+      "sourceFiles": [
+        "materials/radiantantler.json"
+      ],
+      "originalPath": "BetterGenshinImpact/GameTask/AutoBoss/Assets/Pathing/霜夜巡天灵主前往.json"
+    },
+    "talent": {
+      "ids": [
+        104356,
+        104357,
+        104358
+      ],
+      "text": "无光的深都 · 精通秘境：墟都，周一、周四、周日开放「月光」；当前未实测完整刷本领奖。",
+      "days": [
+        "周一",
+        "周四",
+        "周日"
+      ],
+      "entranceId": 1690,
+      "domainId": 4654,
+      "sourceFiles": [
+        "materials/teachingsofmoonlight.json",
+        "domains/domainofmasteryfallencityiv.json"
+      ]
+    },
+    "weekly": {
+      "ids": [
+        113081
+      ],
+      "text": "70级以上「博士」挑战奖励，征讨领域「赝月的研究所」；可在合成台转化，当前没有完整流程验收。",
+      "sourceFiles": [
+        "materials/maskofthevirtuousdoctor.json"
+      ],
+      "entranceId": 1919
+    },
+    "gem": {
+      "ids": [
+        104121,
+        104122,
+        104123,
+        104124
+      ],
+      "text": "涤净青金系列，按游戏内首领掉落、合成或转换获取；此处不承诺霜夜巡天灵主同时掉落水宝石。"
+    },
+    "moraCrown": {
+      "ids": [
+        202,
+        104319
+      ],
+      "text": "摩拉与智识之冕另外准备；不默认消耗脆弱树脂、原石、星尘或皇冠。"
+    }
+  },
+  "bettergiCrosscheck": {
+    "sourceRevision": "c9db8b8291fe4ac25a600aee1582298005919eb2",
+    "scriptRevision": "4fef2c7a70b64f36eddb831ee6fe955276092176",
+    "allItemIdsAndChineseNamesMatch": true,
+    "routes": [
+      {
+        "materialGroup": "冬凌草",
+        "path": "地方特产/挪德卡莱/冬凌草/冬凌草@Tool_tingsu/01-冬凌草-厄布拉神柱-26个.json",
+        "name": "01-冬凌草-厄布拉神柱-26个",
+        "positionCount": 42,
+        "authors": [
+          {
+            "links": "https://github.com/Tooltingsu",
+            "name": "Tool_tingsu"
+          }
+        ],
+        "liveVerified": false
+      },
+      {
+        "materialGroup": "冬凌草",
+        "path": "地方特产/挪德卡莱/冬凌草/冬凌草@Tool_tingsu/02-冬凌草-凯雷丝之翼-19个.json",
+        "name": "02-冬凌草-凯雷丝之翼-19个",
+        "positionCount": 28,
+        "authors": [
+          {
+            "links": "https://github.com/Tooltingsu",
+            "name": "Tool_tingsu"
+          }
+        ],
+        "liveVerified": false
+      },
+      {
+        "materialGroup": "冬凌草",
+        "path": "地方特产/挪德卡莱/冬凌草/冬凌草@Tool_tingsu/03-冬凌草-安瓦蒂尼尔湖-10个.json",
+        "name": "03-冬凌草-安瓦蒂尼尔湖-10个",
+        "positionCount": 13,
+        "authors": [
+          {
+            "links": "https://github.com/Tooltingsu",
+            "name": "Tool_tingsu"
+          }
+        ],
+        "liveVerified": false
+      },
+      {
+        "materialGroup": "冬凌草",
+        "path": "地方特产/挪德卡莱/冬凌草/冬凌草@Tool_tingsu/04-冬凌草-特辖地研究所-14个.json",
+        "name": "04-冬凌草-特辖地研究所-14个",
+        "positionCount": 30,
+        "authors": [
+          {
+            "links": "https://github.com/Tooltingsu",
+            "name": "Tool_tingsu"
+          }
+        ],
+        "liveVerified": false
+      },
+      {
+        "materialGroup": "冬凌草",
+        "path": "地方特产/挪德卡莱/冬凌草/冬凌草@白白喵/01-冬凌草-厄布拉神柱右-18个.json",
+        "name": "01-冬凌草-厄布拉神柱右-18个",
+        "positionCount": 22,
+        "authors": [
+          {
+            "links": "https://github.com/taotao568685",
+            "name": "白白喵"
+          },
+          {
+            "links": "https://github.com/this-Fish",
+            "name": "蜜柑魚"
+          }
+        ],
+        "liveVerified": false
+      },
+      {
+        "materialGroup": "冬凌草",
+        "path": "地方特产/挪德卡莱/冬凌草/冬凌草@白白喵/02-冬凌草-厄布拉神柱中-8个.json",
+        "name": "02-冬凌草-厄布拉神柱中-8个",
+        "positionCount": 11,
+        "authors": [
+          {
+            "links": "https://github.com/taotao568685",
+            "name": "白白喵"
+          },
+          {
+            "links": "https://github.com/this-Fish",
+            "name": "蜜柑魚"
+          }
+        ],
+        "liveVerified": false
+      },
+      {
+        "materialGroup": "冬凌草",
+        "path": "地方特产/挪德卡莱/冬凌草/冬凌草@白白喵/03-冬凌草-厄布拉神柱左-7个.json",
+        "name": "03-冬凌草-厄布拉神柱左-7个",
+        "positionCount": 18,
+        "authors": [
+          {
+            "links": "https://github.com/taotao568685",
+            "name": "白白喵"
+          },
+          {
+            "links": "https://github.com/this-Fish",
+            "name": "蜜柑魚"
+          }
+        ],
+        "liveVerified": false
+      },
+      {
+        "materialGroup": "冬凌草",
+        "path": "地方特产/挪德卡莱/冬凌草/冬凌草@白白喵/04-冬凌草-凯雷丝之翼-12个.json",
+        "name": "04-冬凌草-凯雷丝之翼-12个",
+        "positionCount": 20,
+        "authors": [
+          {
+            "links": "https://github.com/taotao568685",
+            "name": "白白喵"
+          },
+          {
+            "links": "https://github.com/this-Fish",
+            "name": "蜜柑魚"
+          }
+        ],
+        "liveVerified": false
+      },
+      {
+        "materialGroup": "冬凌草",
+        "path": "地方特产/挪德卡莱/冬凌草/冬凌草@白白喵/05-冬凌草-安瓦蒂尼尔湖-10个.json",
+        "name": "05-冬凌草-安瓦蒂尼尔湖-10个",
+        "positionCount": 19,
+        "authors": [
+          {
+            "links": "https://github.com/taotao568685",
+            "name": "白白喵"
+          },
+          {
+            "links": "https://github.com/this-Fish",
+            "name": "蜜柑魚"
+          }
+        ],
+        "liveVerified": false
+      },
+      {
+        "materialGroup": "冬凌草",
+        "path": "地方特产/挪德卡莱/冬凌草/冬凌草@白白喵/06-冬凌草-望崖营壁-8个.json",
+        "name": "06-冬凌草-望崖营壁-8个",
+        "positionCount": 13,
+        "authors": [
+          {
+            "links": "https://github.com/taotao568685",
+            "name": "白白喵"
+          },
+          {
+            "links": "https://github.com/this-Fish",
+            "name": "蜜柑魚"
+          }
+        ],
+        "liveVerified": false
+      },
+      {
+        "materialGroup": "冬凌草",
+        "path": "地方特产/挪德卡莱/冬凌草/冬凌草@白白喵/07-冬凌草-特辖地研究所-4个.json",
+        "name": "07-冬凌草-特辖地研究所-4个",
+        "positionCount": 12,
+        "authors": [
+          {
+            "links": "https://github.com/taotao568685",
+            "name": "白白喵"
+          },
+          {
+            "links": "https://github.com/this-Fish",
+            "name": "蜜柑魚"
+          }
+        ],
+        "liveVerified": false
+      },
+      {
+        "materialGroup": "冬凌草",
+        "path": "地方特产/挪德卡莱/冬凌草/冬凌草@白白喵/08-冬凌草-苦壑崖-2个.json",
+        "name": "08-冬凌草-苦壑崖-2个",
+        "positionCount": 7,
+        "authors": [
+          {
+            "links": "https://github.com/Tooltingsu",
+            "name": "Tool_tingsu"
+          },
+          {
+            "links": "https://github.com/this-Fish",
+            "name": "蜜柑魚"
+          }
+        ],
+        "liveVerified": false
+      },
+      {
+        "materialGroup": "史莱姆素材",
+        "path": "敌人与魔物/史莱姆/史莱姆速刷.json",
+        "name": "史莱姆速刷",
+        "positionCount": 101,
+        "authors": [
+          {
+            "name": "爱凑热闹"
+          }
+        ],
+        "liveVerified": false
+      }
+    ],
+    "note": "仅以原资源证明名称、物品ID、路线与入口存在；不以资源数量宣称自动化成功。"
+  }
+}

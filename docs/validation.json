@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "recordedAt": "2026-10-16T18:06:48.823833+00:00",
+  "completeMigration": false,
+  "live": {
+    "passed": true,
+    "headless": true,
+    "pointerLock": false,
+    "nativePointerLockGetter": true,
+    "pointerLockOverride": false,
+    "sdkSha256": "c654107f78e081046e423c129ad4c6abe26fa3328193b25c24a38c087fa0745f",
+    "mainUi": true,
+    "camera": {
+      "passed": true,
+      "angleBefore": 138.5,
+      "angleAfter": 164.5,
+      "angleDelta": 26,
+      "evidence": "originalCameraOrientationOnLivePixels"
+    },
+    "walk": {
+      "passed": true,
+      "durationMs": 1000,
+      "mapDisplacement": 4.954712175538505
+    },
+    "originalPackage": {
+      "package": "取消任务追踪",
+      "version": "1.0",
+      "modules": 0,
+      "passed": true
+    },
+    "menu": {
+      "passed": true
+    },
+    "inventory": {
+      "recognitionPassed": true,
+      "mainUiVerified": true,
+      "note": "Single material live recognition; player inventory and screenshots omitted."
+    },
+    "audioMuted": true,
+    "pressedKeysReleased": true,
+    "mouseButtonsReleased": true
+  },
+  "offlineAtCoreAcceptance": {
+    "node": {
+      "pass": 623,
+      "fail": 0,
+      "skip": 0
+    },
+    "python": {
+      "pass": 309,
+      "fail": 0
+    }
+  },
+  "adapterSha256": {
+    "scripts/bettergi/cloud.mjs": "d79dc5b2181d7e8ed982ba8173e333f0644c35323c6ec994d3f4755a2b994b47",
+    "scripts/bettergi/host.mjs": "c847dd780514c4afa2e928341536259dd43f8e69a0c6e489297cbcf44e050169",
+    "scripts/bettergi/domain.mjs": "d00668d5857b76dbd5261b724285277d34624a9ac99d161dc0839c97c4a9980e",
+    "scripts/bettergi/eat.mjs": "b770ab5f2849c07f0d35a28a890e401f943614a145c9d8e37f2181d41c02fc47",
+    "scripts/ops/bettergi.mjs": "18320c3d1001d7c46f56ec38291d250169b07f99d5a033018f6975f9d86c6491",
+    "scripts/bettergi/validate-live.mjs": "7498ff5536ec0d67995cfadb0fea6ce7aeaf5136f73719737b2a413a992a4d56"
+  },
+  "limits": [
+    "Full feature and script-package migration incomplete; see docs/porting-status.md",
+    "Full domain, boss, fishing, TCG and salvage tasks have not completed live validation",
+    "No package/catalog hash independently verified against upstream NuGet catalog"
+  ],
+  "privacy": "Public summary only. Account identifiers, screenshots, profile and absolute paths excluded.",
+  "releaseCheck": {
+    "resourceRestore": "Fresh network restore, pinned commits and SHA256 verified",
+    "resourceFilesVerified": 22733,
+    "node": {
+      "pass": 628,
+      "fail": 0,
+      "skip": 0
+    },
+    "python": {
+      "pass": 309,
+      "fail": 0
+    },
+    "environment": "macOS Apple Silicon, Node26, Python3.10, independently installed dependencies",
+    "scope": "Curated public checkout with restored original resources; no gameplay rerun during packaging."
+  }
+}
